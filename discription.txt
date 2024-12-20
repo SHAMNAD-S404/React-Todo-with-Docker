@@ -1,0 +1,1 @@
+This repo is created for react todo application building and dockerising using docker and pushed to docker hub
